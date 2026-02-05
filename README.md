@@ -11,31 +11,29 @@ This GitHub repository provides Chicago Transit Authority (CTA) transit alert da
 
 ## Table of Contents
 - [Dataset](https://github.com/deltaract/cta-alert-data_22-25/tree/main?tab=readme-ov-file#dataset)
-- [Visualizing the Data](https://github.com/deltaract/cta-alert-data_22-25/tree/main?tab=readme-ov-file#visualizing-the-data)
-  - [Graphs](https://github.com/deltaract/cta-alert-data_22-25/tree/main?tab=readme-ov-file#visualizing-the-data)
-  - [Plots](https://github.com/deltaract/cta-alert-data_22-25/tree/main?tab=readme-ov-file#visualizing-the-data)
-    - [Getting the Shapefiles](https://github.com/deltaract/cta-alert-data_22-25/tree/main?tab=readme-ov-file#getting-the-shapefiles)
+- [Analysis](https://github.com/deltaract/cta-alert-data_22-25/tree/main?tab=readme-ov-file#analysis)
+- [Maps](https://github.com/deltaract/cta-alert-data_22-25/tree/main?tab=readme-ov-file#maps)
+  - [Getting the Shapefiles](https://github.com/deltaract/cta-alert-data_22-25/tree/main?tab=readme-ov-file#getting-the-shapefiles)
+  - [Static Maps](https://github.com/deltaract/cta-alert-data_22-25/tree/main?tab=readme-ov-file#static-maps)
   - [Interactive Map](https://github.com/deltaract/cta-alert-data_22-25/tree/main?tab=readme-ov-file#interactive-map)
 
 ## Dataset
 
 Work in progress
 
-## Visualizing the Data
+## Analysis
 
 Work in progress
 
-### Graphs
+## Maps
+
+### Getting the Shapefiles
 
 Work in progress
 
-### Plots
+### Static Maps
 
-Work in progress
-
-#### Getting the Shapefiles
-
-Work in progress
+work in progress
 
 ### Interactive Map
 
